@@ -1,0 +1,40 @@
+---
+ID: 9142
+post_title: 'Swim, Don’t Sink: Wade into your mission with fiscal sponsorship'
+author: Danielle Gangelhoff
+post_excerpt: "Fiscal sponsorship is a great alternative to applying for your own 501(c)(3) status. Propel Nonprofits' is a fiscal sponsorship host; here, we describe the what, why, and who of fiscal sponsorship."
+layout: post
+permalink: >
+  http://propel.stpaulmedia.net/blog/swim-dont-sink-with-fiscal-sponsorship/
+published: true
+post_date: 2018-07-19 01:00:16
+---
+<blockquote>I like to compare charitable work for emerging organizations to going for a swim: Starting a 501(c)(3) nonprofit is a bit like jumping into the deep end.</blockquote>
+The IRS estimates that it takes over 100 hours to complete the application process for 501(c)(3) nonprofit status. That’s a long time to spend structuring a new idea that may or may not be successful. What’s the alternative? How can you test drive your idea before committing to the 501(c)(3) process? The answer is fiscal sponsorship.
+
+If you’re involved in the social sector or have researched starting a nonprofit (or the alternatives), chances are you have heard of fiscal sponsorship. While not a new concept – it has existed in its current form since the 1970s and its <a href="https://fiscalsponsordirectory.org/?page_id=114">roots go back to the 19<sup>th</sup> century</a> – fiscal sponsorship has recently picked up steam as more emerging organizations are looking for alternatives to starting a 501(c)(3). Visibility of the concept has also been helped along by recent articles featured in <a href="https://nonprofitquarterly.org/">Nonprofit Quarterly</a>, including <a href="https://nonprofitquarterly.org/2017/11/08/star-trek-future-nonprofit-sector/">Star Trek and the Future of the Nonprofit Sector</a> and <a href="https://nonprofitquarterly.org/2018/02/21/fiscal-sponsorship-hidden-resource-nonprofit-entrepreneurs/">Fiscal Sponsorship: A Hidden Resource for Nonprofit Entrepreneurs</a>.
+<h2>What is Fiscal Sponsorship and Why Should You Consider It?</h2>
+Fiscal sponsorship is when a 501(c)(3) nonprofit organization (the “sponsor”) offers its tax-exempt status to groups/individuals engaged in charitable activities that further the sponsor’s mission. The sponsor accepts donations and grants on behalf of the charitable project or group. The sponsored group does not have its own tax-deductible status with the IRS. This allows organizations, individuals, collaborations, or even for-profit businesses with a mission-driven component doing great work access to funding sources not otherwise available to them.
+
+Why not just apply for 501(c)(3) status with the IRS directly and avoid a third party, i.e. the fiscal sponsor? I like to compare charitable work for emerging organizations to going for a swim: Starting a 501(c)(3) nonprofit is a bit like jumping into the deep end. You’ve spent all that time getting ready – putting on sunscreen, packing up snacks, getting the crew together – and now you’ve completely jumped in. You’re totally immersed in the water before you have a chance to realize if you like swimming, if the pool is the right temperature, or if you have the momentum to keep afloat. At this point, you have no choice but to swim. The same goes for getting a 501(c)(3): You’ve spent countless hours doing paperwork and assembling a board of directors. You’ve incorporated with your state, received an EIN, and applied for tax exemption from the IRS – a process that can take up to a year. All of this comes before you’ve even tested your idea.
+
+[caption id="attachment_9147" align="alignleft" width="768"]<img class="size-full wp-image-9147" src="http://propel.stpaulmedia.net/wp-content/uploads/2018/07/CreativeExposureRISE-for-web-cropped.jpg" alt="" width="768" height="511" /> Photo credit: Reviving the Islamic Sisterhood for Empowerment, one of Propel Nonprofits' fiscally sponsored organizations[/caption]
+
+Alternatively, fiscal sponsorship allows you to wade into the work and test out the waters. You can discover if the water is the right temperature for your work, and if you like swimming or not. It also gives you the benefit of having a swim coach – a good fiscal sponsor who can guide you as you move at your own pace.
+
+Fiscal sponsorship also allows for a quicker ease of entry. Many fiscal sponsors, including Propel Nonprofits, review applications monthly, which allows you to start accepting donations and applying for grants to carry out your mission in just a few months, as opposed to the year it could take before you can start accepting donations as a 501(c)(3). There are many more benefits to using a fiscal sponsor, some of which are outlined in <a href="https://rainiervalleycorps.org/2017/06/stigma-fiscal-sponsorship-needs-end/">this 2017 article</a>.
+
+And, if using a fiscal sponsor is working for you, there is no need to apply for 501(c)(3) status. Rather than being a means to your destination (IRS-approved nonprofit status), fiscal sponsorship can be just the right structure for your work.
+
+Fiscal sponsorship is not just beneficial for the sponsored organization; the relationship is valuable to the fiscal sponsor as well. By sponsoring projects connected to its mission, a fiscal sponsor can broaden its impact in the community. Propel Nonprofits, for example, has a vision of a diverse network of mission-driven nonprofits building a healthy, vibrant, and more just community. By sponsoring projects working toward social justice, community leadership, or racial equity, to name a few examples, we are working toward that vision.
+<h2><strong>Who Is Fiscal Sponsorship Best For?</strong></h2>
+So, who does fiscal sponsorship work best for? I break it down in to five categories:
+<ol>
+ 	<li><strong>Emerging organizations that</strong> are just starting out and want to test drive their idea. This scenario is the one where wading into the work is most beneficial. In addition to allowing these organizations to test out their ideas, fiscal sponsorship can help in other ways. This is the most common category for our fiscal sponsorship program, but also allows for a lot of diverse approaches; check out our <a href="http://propel.stpaulmedia.net/wp-content/uploads/2018/07/Fiscal-Sponsorship-Case-Studies-summary-pages.pdf">case studies</a> about  four sponsored projects that used fiscal sponsorship for different, but not dissimilar reasons.</li>
+ 	<li><strong>Projects that are temporary in nature. </strong>Why start an entirely new legal entity if you plan to finish the work in a set period of time? Using a fiscal sponsor will allow you to have ease of entry to move forward with the work, and have ease of exit when you are done.</li>
+ 	<li><strong>Collaborations.</strong> There are times when multiple entities want to work together on a specific project and receive funding for that work without creating an entirely new organization. A fiscal sponsor works great in this scenario as a neutral third-party to receive and manage funding.</li>
+ 	<li><strong>Individuals doing great work that is grant funded. </strong>This scenario is common for independent artists who want to make art that benefits the community.</li>
+ 	<li><strong>Business enterprises with a mission-driven component</strong>. Sometimes business enterprises want to use their expertise to do grant-funded work in the charitable sector. These organizations could use a fiscal sponsor to ensure the funds remain in the charitable sector.</li>
+</ol>
+<h2>Want to Learn More?</h2>
+While there are certainly instances when jumping right in with your own 501(c)(3) is the right call, we’re big fans of wading in, and we’re happy to be your swim coach. If you’re interested in learning more about fiscal sponsorship check out <a href="http://propel.stpaulmedia.net/resources/fiscal-sponsorship-video/">our video</a><em>, </em>explore <a href="http://www.fiscalsponsors.org/">resources from the National Network of Fiscal Sponsors</a>, or contact us for a conversation.

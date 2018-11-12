@@ -1,0 +1,34 @@
+---
+ID: 8676
+post_title: '7 Things We&#8217;ve Learned After 10 Social Enterprise Cohorts'
+author: Glyn Northington
+post_excerpt: 'When done well and in-line with your mission, social enterprise can be a wonderful earned income stream that nonprofits have 100% control over. It’s the money you can take risks or pursue dreams with. But creating a social enterprise can also deplete resources – cash, staff capacity, and focus on other priorities.'
+layout: post
+permalink: >
+  http://propel.stpaulmedia.net/blog/7-things-weve-learned-after-10-social-enterprise-cohorts/
+published: true
+post_date: 2018-05-14 07:51:24
+---
+There’s a catch-22 when it comes to nonprofits venturing into the world of social enterprise: Nonprofits are often risk averse because they are stewards of others' philanthropic dollars and resources are always tight. However, they are also the organizations most interested in exploring opportunities like social enterprise because of the revenue constraints they experience.
+<blockquote>Most of the concepts we discuss – mission fit, market demand, competition, operations, finance, marketing, etc. – are also critical for a successful nonprofit as well.</blockquote>
+When done well and in-line with your mission, social enterprise can be a wonderful earned income stream that nonprofits have 100% control over. It’s the money you can take risks or pursue dreams with. But creating a social enterprise can also deplete resources – cash, staff capacity, and focus on other priorities.
+
+To help nonprofits better prepare for the launch of a successful social enterprise, we worked with 10 different cohorts across Minnesota, including Little Falls, Grand Rapids, St. Paul, and Duluth. This work was supported by some amazing partners: Northwest Area Foundation, Blandin Foundation, St. Paul Foundation, Initiative Foundation, and Northland Foundation. Our cohort training approach really looks at four key areas: mission fit, organizational capacity, financial capacity, and market opportunity. (See more on these in a <a href="http://propel.stpaulmedia.net/blog/social-enterprise-could-be-your-next-step/">previous blog.</a>) Across all these cohorts, we found 7 key points worth repeating to others thinking about starting a social enterprise.
+<h3>1. Social Enterprise Won’t Be Your Cash Flow Silver Bullet.</h3>
+We love the social enterprise model because it’s a line of earned income, and in our book, cash is king/queen/critical! Yet while social enterprise holds promise for some organizations, rarely is it the only answer to an organization's cash needs.
+<h3>2. Social Enterprise Works Best When it Complements Mission and Income Goals.</h3>
+The more closely your social enterprise aligns with your mission, the easier it seems to be for nonprofits to successfully launch it. One of our first questions with nonprofits is, “What are you trying to solve for with your social enterprise – how much money do you need to raise?” Helping organizations set clear revenue goals for social enterprises goes a long way toward helping them assess whether they should pursue a particular strategy – they then have a benchmark against which they can measure their financial forecasts.
+<h3>3. Be Ready to Exploit the Market.</h3>
+As nonprofit folks, we know this can be hard to do. However, if you’re not ready or willing to price your goods – whether coffee or animal housing or refurbished computers – in line with the competition, social enterprise may not be right for you.
+<h3>4. A Social Enterprise Needs to Make a Profit.</h3>
+Related to point #3, if you start a social enterprise that needs to be fully funded by grants or donations or other earned income, it is not a true social enterprise. It may be a great program, and maybe you should do it, but it is not a social enterprise. A social enterprise needs to cover part – or preferably all – of its costs AND produce a profit to support your mission.
+<h3>5. The Grass Isn’t Always Greener: Rural and Urban Both have Pros and Cons.</h3>
+Greater Minnesota social enterprises like to think that it would be easier if they were in the Twin Cities, largely because of a bigger market of consumers. However, Twin Cities folks often think that social enterprise would be easier in a rural place: cheaper rent, less competition, more affordable marketing channels. The truth is, we’ve seen social enterprises succeed and fail in both markets, for reasons less to do with location and more to do with mission-fit and execution.
+<h3>6. Have the Right Staff and Board Supports in Place.</h3>
+Social enterprise is a different business model, and therefore, it will require different skill sets. You need staff who are entrepreneurial and understand what to do to increase profitability. Someone who is great at working with clients in your social service agency quite likely will not also be the best person to merchandise a thrift store. Additionally, some board members may see social enterprise as a distraction rather than a funding stream. You need advocates on your board who will help support and clarify questions about this new endeavor, which is why we encourage board involvement in the cohorts we conduct.
+<h3>7. More Important Than the Model is the Process to Get There.</h3>
+For us, we consider it a success when at the end of a 5-session cohort, people still have 12 questions, but they’re the right questions. It’s a success if after exploring a social enterprise a nonprofit decides it is not a good choice or now is not the right time for it. It’s better to determine that during a cohort instead of after launching – and investing precious resources of time and money – on your social enterprise.
+
+What really warms our hearts is when someone within the cohort says, “Hey, we could use this concept to strengthen our nonprofit program (or organizations or finances), couldn’t we?” Most of the concepts we discuss – mission fit, market demand, competition, operations, finance, marketing, etc. – are also critical for a successful nonprofit as well. So while the cohort focuses on social enterprise, it is all about increasing the capacity of nonprofits to do the amazing work they do everyday.
+
+If your nonprofit is thinking about starting a social enterprise, we have some tools on our website, including this <a href="http://propel.stpaulmedia.net/resources/social-enterprise-business-plan/">social enterprise business plan template</a> and a free webinar on May 23, <a href="http://propel.stpaulmedia.net/trainings/social-enterprise-right/">“Is Social Enterprise Right for You?”</a> We also have loan capital available to nonprofits launching a new social enterprise model and several other helpful blogs on the subject.
